@@ -4,7 +4,7 @@ const nextConfig = {
     return [
       {
         source: '/:path*',
-        destination: 'https://erp.escalamais.com',
+        destination: 'https://erp.escalemais.com',
         permanent: true,
       },
     ]

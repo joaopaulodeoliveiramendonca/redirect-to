@@ -1,6 +1,6 @@
 # Redirecionamento para ERP Escalamais
 
-Este projeto redireciona todas as rotas para https://erp.escalamais.com
+Este projeto redireciona todas as rotas para https://erp.escalemais.com
 
 ## Deploy na Vercel
 
@@ -21,4 +21,4 @@ O redirecionamento está configurado em dois lugares para garantir funcionamento
 - `vercel.json`: Configuração nativa da Vercel
 - `next.config.js`: Fallback via Next.js
 
-Todas as rotas (/, /qualquer-pagina, /a/b/c, etc) serão redirecionadas para https://erp.escalamais.com com status HTTP 301 (redirecionamento permanente).
+Todas as rotas (/, /qualquer-pagina, /a/b/c, etc) serão redirecionadas para https://erp.escalemais.com com status HTTP 301 (redirecionamento permanente).
