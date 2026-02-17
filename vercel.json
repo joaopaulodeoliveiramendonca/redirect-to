@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://erp.escalamais.com",
+      "permanent": true
+    }
+  ]
+}
